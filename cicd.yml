@@ -66,6 +66,6 @@ jobs:
         continue-on-error: true
         env:
           nowSourceInstance: ${{ env.SN_INSTANCE }}
-          appScope: x_cd_grc_app
+          appScope: x_1896698_gitrepo
 
       # new change
